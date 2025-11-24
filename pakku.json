@@ -1,0 +1,12 @@
+{
+    "name": "lavacraft4",
+    "version": "0.0.1",
+    "author": "agentdid127",
+    "overrides": [
+        "config",
+        "datapacks"
+    ],
+    "paths": {
+        "data_packs": "datapacks"
+    }
+}
